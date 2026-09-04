@@ -1,0 +1,14 @@
+/cache
+/.venv
+cache/
+/tmp1
+
+# training artefacts
+*.pt
+*_weights/
+runs/
+tokenizer_*.json
+.DS_Store
+
+__pycache__/
+*.py[cod]

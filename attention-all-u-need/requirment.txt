@@ -1,0 +1,11 @@
+# Python 3.11 - 3.13 (there are no PyTorch wheels for 3.14 yet)
+# torchtext is archived upstream and has no wheels for modern Python - do not add it back.
+
+torch
+datasets
+tokenizers
+torchmetrics
+tensorboard
+tqdm
+altair
+wandb
